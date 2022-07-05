@@ -1,0 +1,10 @@
+book01:
+  id: 1
+  name: Symfony5 The Fast Track
+  author: Fabien
+  publishedAt: 2021
+book02:
+  id: 2
+  name: Symfony6 The Fast Track
+  author: Fabien
+  publishedAt: 2022
